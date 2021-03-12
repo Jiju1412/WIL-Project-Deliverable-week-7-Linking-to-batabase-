@@ -1,0 +1,25 @@
+.box {
+    width: 40%;
+    border: 1px solid #595f6b;
+    background-color: #808080;
+    padding: 34px;
+}
+
+.textBox {
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.button {
+    
+    margin: 10px;
+    padding-left: 16px;
+    padding-top: 10px;
+    padding-right: 16px;
+    padding-bottom: 10px;
+}
+
+.textHeading {
+    margin: 10px;
+}

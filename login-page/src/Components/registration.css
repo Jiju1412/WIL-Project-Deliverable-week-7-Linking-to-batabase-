@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    color: black;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;    
+  }
+
+.text{
+    color: black;
+    font-size: 20px;
+}
+
+label {
+    margin: 10px;
+}
+
+.mainBox {
+    text-align: left;
+    padding: 16px;
+    height: 500px;
+    width: 600px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 1px solid #282c34;
+    background-color:rgb(167, 167, 167);
+}
+
+.button {
+    padding: 5px;
+    background-color: rgb(117, 114, 114);
+}
